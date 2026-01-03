@@ -72,8 +72,8 @@
    cd "~/NDI SDK for Linux/lib/x86_64-linux-gnu"
    
    # Copy to system library path
-   sudo cp libndi.so.5 /usr/local/lib/
-   sudo ln -sf /usr/local/lib/libndi.so.5 /usr/local/lib/libndi.so
+   sudo cp libndi.so.6 /usr/local/lib/
+   sudo ln -sf /usr/local/lib/libndi.so.6 /usr/local/lib/libndi.so
    
    # Update library cache
    sudo ldconfig
