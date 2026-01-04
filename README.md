@@ -85,9 +85,7 @@
    ldconfig -p | grep libndi
    # Should show: libndi.so -> /usr/local/lib/libndi.so.6
    ```
-
-**Alternative:** You can also download **NDI Tools for Linux** from https://ndi.video/tools/ which includes the runtime.
-
+   
 ### Quick Installation Guide
 
 **Java is bundled** - no separate Java installation required!
